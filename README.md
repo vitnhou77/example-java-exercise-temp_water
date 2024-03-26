@@ -1,7 +1,7 @@
-# Exemplo - Exercício Java
+# Algoritmo - Exercício Java
 
 <p align="center">
-    <img src="./image/ponte.jfif" width="700" alt="Ponte">
+    <img src="./image/ponte.jfif" width="700" alt="Ponte" img{border-radius: 10px;}>
 </p>
 
 ### Temperatura da água é crucial para resgate após navio derrubar ponte nos EUA
