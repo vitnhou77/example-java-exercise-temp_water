@@ -36,7 +36,7 @@ Você foi contratado(a) pela empresa Paiva Ltda para apoiar no desenvolvimento <
 de uma solução em **Java**.
 Você deve criar um algoritmo que faça a leitura de **12 temperaturas em um dia**.<br>
 Cada temperatura deve ser **maior ou igual a 4º** C (graus Celsius)<br>
-e **menor ou igual a 10º C**.
+e **menor ou igual a 10º C**. <br>
 O algoritmo deve calcular e imprimir a **média das temperaturas aferidas naquele dia**.<br>
 Valide as entradas das temperaturas - se uma temperatura lida não estiver no intervalo<br>
 entre 4 e 10, então deverá solicitar a entrada novamente.<br>
