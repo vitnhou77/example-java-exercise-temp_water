@@ -1,7 +1,7 @@
 # Algoritmo - Exercício Java
 
 <p align="center">
-    <img src="./image/ponte.jfif" width="700" alt="Ponte" source media="(border: 8px solid red;)">
+    <img src="./image/ponte.jpg" width="700" alt="Ponte"">
 </p>
 
 ### Temperatura da água é crucial para resgate após navio derrubar ponte nos EUA
@@ -29,7 +29,7 @@ _As operações de busca e salvamento já passaram da sexta hora desde a ocorrê
 ## Iremos contratar você
 
 <p align="center">
-    <img src="./image/money.png" width="300" alt="money" source media="(border: 8px solid red;)">
+    <img src="./image/money.png" width="300" alt="money">
 </p>
 
 Você foi contratado(a) pela empresa Paiva Ltda para apoiar no desenvolvimento <br>
