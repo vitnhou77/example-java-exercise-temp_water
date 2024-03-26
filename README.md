@@ -29,7 +29,7 @@ _As operações de busca e salvamento já passaram da sexta hora desde a ocorrê
 ## Iremos contratar você
 
 <p align="center">
-    <img src="./image/money.png" width="300" alt="money">
+    <img src="./image/money.png" width="200" alt="money">
 </p>
 
 Você foi contratado(a) pela empresa Paiva Ltda para apoiar no desenvolvimento <br>
@@ -41,6 +41,13 @@ O algoritmo deve calcular e imprimir a **média das temperaturas aferidas naquel
 Valide as entradas das temperaturas - se uma temperatura lida não estiver no intervalo<br>
 entre 4 e 10, então deverá solicitar a entrada novamente.<br>
 A idéia é garantir que somente temperaturas válidas façam parte do cálculo da média.
+
+
+### Ferramentas
+
+Você pode utilizar a IDE de sua preferência.<br>
+Você deve utilizar uma versão do Java LTS.<br>
+Você precisa subir a solução aqui no GitHub.
 
 ### Observações
 
