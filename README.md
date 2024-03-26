@@ -33,7 +33,8 @@ _As operações de busca e salvamento já passaram da sexta hora desde a ocorrê
 </p>
 
 Você foi contratado(a) pela empresa Paiva Ltda para apoiar no desenvolvimento <br>
-de uma solução em **Java**.
+de uma solução em **Java**.<br>
+Para isso você medirá a temperatura da água de determinada região geográfica.<br>
 Você deve criar um algoritmo que faça a leitura de **12 temperaturas em um dia**.<br>
 Cada temperatura deve ser **maior ou igual a 4º** C (graus Celsius)<br>
 e **menor ou igual a 10º C**. <br>
