@@ -1,7 +1,7 @@
 # Exemplo - Exercício Java
 
 <p align="center">
-    <img src="./image/ponte.jfif" width="100" alt="Ponte">
+    <img src="./image/ponte.jfif" width="500" alt="Ponte">
 </p>
 
 ### Temperatura da água é crucial para resgate após navio derrubar ponte nos EUA
