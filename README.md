@@ -43,6 +43,34 @@ Valide as entradas das temperaturas - se uma temperatura lida não estiver no in
 entre 4 e 10, então deverá solicitar a entrada novamente.<br>
 A idéia é garantir que somente temperaturas válidas façam parte do cálculo da média.
 
+### Análise
+
+Para te apoiar nesse desafio, foi contratado um analista de sistemas.
+E ele anotou dois cenários de entrada de dados:
+
+1º Cenário
+
+Todas as temperaturas foram medidas com 10 º C.
+
+Logo, a saída do programa deve ser:
+
+~~~
+A média de hoje das temperaturas é: 10,0º C
+~~~
+
+2º Cenário
+
+A entrada dos dados respeito o seguinte critério:
+
+<p align="left">
+    <img src="./image/cenario_2.png" width="700" alt="cenario"">
+</p>
+
+Logo, a saída do programa deve ser:
+
+~~~
+A média de hoje das temperaturas é: 8,3º C
+~~~
 
 ### Ferramentas
 
